@@ -1,1 +1,1 @@
-# first-linda-project
+# About my first project on Github
